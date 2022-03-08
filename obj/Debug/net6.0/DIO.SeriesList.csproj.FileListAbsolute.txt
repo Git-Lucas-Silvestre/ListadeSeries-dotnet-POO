@@ -1,0 +1,15 @@
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\bin\Debug\net6.0\DIO.SeriesList.exe
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\bin\Debug\net6.0\DIO.SeriesList.deps.json
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\bin\Debug\net6.0\DIO.SeriesList.runtimeconfig.json
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\bin\Debug\net6.0\DIO.SeriesList.dll
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\bin\Debug\net6.0\DIO.SeriesList.pdb
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.csproj.AssemblyReference.cache
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.AssemblyInfoInputs.cache
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.AssemblyInfo.cs
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.csproj.CoreCompileInputs.cache
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.dll
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\refint\DIO.SeriesList.dll
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.pdb
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\DIO.SeriesList.genruntimeconfig.cache
+C:\Workplace\DIO\GFT-STARTER-4\DIO.SeriesList\obj\Debug\net6.0\ref\DIO.SeriesList.dll
